@@ -35,7 +35,7 @@ function addtodo(todo) {
   par.addEventListener("dblclick", () => {
     save.removeChild(par);
     remove(todo);
-    location.reload(true);
+    
   });
 
   function remove(todo) {
