@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#main{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px 100px 50px 100px;
+    width: 20%;
+    margin: 50px 0px 0px 450px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+#save{
+    background-color: cadetblue;
+    width: auto;
+    height: 250px;
+    overflow: hidden;
+}
